@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>WaveBoost</title>
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
+    <div class="wrap">
+      <header>
+        <h1>WaveBoost</h1>
+        <div id="status" class="status" aria-live="polite"></div>
+      </header>
+
+      <section class="card">
+        <label class="row" for="gain">
+          <span>Boost</span>
+          <span id="gainValue" class="value">100%</span>
+        </label>
+        <input id="gain" type="range" min="50" max="300" step="5" value="100" />
+        <p class="hint">Range: 50% to 300%. Use responsibly.</p>
+      </section>
+
+      <section class="card">
+        <label class="toggle">
+          <input id="safeMode" type="checkbox" checked />
+          <span>Safe mode (limiter + auto anti-clipping)</span>
+        </label>
+        <button id="reset" class="btn" type="button">Reset</button>
+      </section>
+
+      <footer>
+        <p class="small">Works on pages with &lt;audio&gt; / &lt;video&gt; elements.</p>
+      </footer>
+    </div>
+
+    <script src="popup.js"></script>
+  </body>
+</html>
