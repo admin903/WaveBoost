@@ -1,0 +1,26 @@
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+
+# Zip / build artifacts
+*.zip
+*.crx
+*.pem
+
+# Node (if tooling is ever added)
+node_modules/
