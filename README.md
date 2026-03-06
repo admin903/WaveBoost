@@ -2,7 +2,7 @@
 
 # WaveBoost
 
-### Browser Volume Booster Chrome Extension
+### Browser Audio Booster Chrome Extension
 
 **Boost your browser audio up to 3× — clean, private, and safe.**
 
@@ -90,7 +90,7 @@ MediaElementSource → UserGain → Output
 2. Open `chrome://extensions` in Chrome
 3. Enable **Developer mode** (toggle, top-right)
 4. Click **Load unpacked**
-5. Select the `Volume Booster` folder
+5. Select the `WaveBoost` folder
 6. The WaveBoost icon appears in your toolbar — click it and start boosting
 
 ---
@@ -98,7 +98,7 @@ MediaElementSource → UserGain → Output
 ## Project Structure
 
 ```
-Volume Booster/
+WaveBoost/
 ├── manifest.json            ← MV3 manifest (must be at root)
 ├── README.md
 ├── LICENSE
