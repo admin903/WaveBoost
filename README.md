@@ -92,9 +92,9 @@ MediaElementSource → UserGain → Output
 
 > No Chrome Web Store listing yet — load it manually in under 30 seconds.
 
-**Step 1** — Open Chrome menu → hover **Extensions**
+**Step 1** — Open Chrome menu → **Extensions** → **Manage Extensions**
 
-![Step 1 - Open Extensions menu](screenshots/menu-2.png)
+![Step 1 - Open Extensions menu]
 
 **Step 2** — Enable **Developer mode** (top-right toggle)
 
