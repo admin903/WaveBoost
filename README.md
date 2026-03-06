@@ -21,6 +21,12 @@
 
 Whether you're watching a quiet video on YouTube, listening to a podcast, or streaming music on Spotify Web — WaveBoost gives you the volume control your browser should have had by default.
 
+<div align="center">
+
+![WaveBoost Popup](screenshots/done.png)
+
+</div>
+
 ---
 
 ## Features
@@ -86,12 +92,21 @@ MediaElementSource → UserGain → Output
 
 > No Chrome Web Store listing yet — load it manually in under 30 seconds.
 
-1. [Download or clone](https://github.com/admin903/WaveBoost) this repository
-2. Open `chrome://extensions` in Chrome
-3. Enable **Developer mode** (toggle, top-right)
-4. Click **Load unpacked**
-5. Select the `WaveBoost` folder
-6. The WaveBoost icon appears in your toolbar — click it and start boosting
+**Step 1** — Open Chrome menu → hover **Extensions**
+
+![Step 1 - Open Extensions menu](screenshots/menu.png)
+
+**Step 2** — Enable **Developer mode** (top-right toggle)
+
+![Step 2 - Enable Developer mode](screenshots/devmode.png)
+
+**Step 3** — Click **Load unpacked** and select the `WaveBoost` folder
+
+![Step 3 - Load unpacked](screenshots/load-extension.png)
+
+**Done** — WaveBoost is installed and ready
+
+![Done - WaveBoost running](screenshots/done.png)
 
 ---
 
