@@ -94,8 +94,6 @@ MediaElementSource → UserGain → Output
 
 **Step 1** — Open Chrome menu → **Extensions** → **Manage Extensions**
 
-![Step 1 - Open Extensions menu]
-
 **Step 2** — Enable **Developer mode** (top-right toggle)
 
 ![Step 2 - Enable Developer mode](screenshots/devmode.png)
