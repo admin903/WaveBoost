@@ -23,7 +23,7 @@ Whether you're watching a quiet video on YouTube, listening to a podcast, or str
 
 <div align="center">
 
-![WaveBoost Popup](screenshots/done.png)
+..
 
 </div>
 
@@ -96,15 +96,15 @@ MediaElementSource → UserGain → Output
 
 **Step 2** — Enable **Developer mode** (top-right toggle)
 
-![Step 2 - Enable Developer mode](screenshots/devmode.png)
+..
 
 **Step 3** — Click **Load unpacked** and select the `WaveBoost` folder
 
-![Step 3 - Load unpacked](screenshots/load-extension.png)
+..
 
 **Done** — WaveBoost is installed and ready
 
-![Done - WaveBoost running](screenshots/done.png)
+..
 
 ---
 
