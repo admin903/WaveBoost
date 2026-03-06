@@ -23,7 +23,7 @@ Whether you're watching a quiet video on YouTube, listening to a podcast, or str
 
 <div align="center">
 
-..
+<img width="398" height="332" alt="done" src="https://github.com/user-attachments/assets/abb91b7d-cfaf-4593-9296-3eb61cc0fa6c" />
 
 </div>
 
@@ -96,15 +96,16 @@ MediaElementSource → UserGain → Output
 
 **Step 2** — Enable **Developer mode** (top-right toggle)
 
-..
+<img width="220" height="66" alt="devmode" src="https://github.com/user-attachments/assets/4ea2ff94-d341-4f3e-95b2-a3e9dfa4a2a7" />
+
 
 **Step 3** — Click **Load unpacked** and select the `WaveBoost` folder
 
-..
+<img width="506" height="138" alt="load-extension" src="https://github.com/user-attachments/assets/d2439df3-8c00-457f-9974-5db131ab1d87" />
 
 **Done** — WaveBoost is installed and ready
 
-..
+<img width="398" height="332" alt="done" src="https://github.com/user-attachments/assets/30013ba4-3767-4d02-83a9-5e676bed5bb3" />
 
 ---
 
