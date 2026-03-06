@@ -94,7 +94,7 @@ MediaElementSource → UserGain → Output
 
 **Step 1** — Open Chrome menu → hover **Extensions**
 
-![Step 1 - Open Extensions menu](screenshots/menu.png)
+![Step 1 - Open Extensions menu](screenshots/menu-2.png)
 
 **Step 2** — Enable **Developer mode** (top-right toggle)
 
